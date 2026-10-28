@@ -11,8 +11,6 @@ Vytvoř v této složce soubor `.env` s tímto obsahem:
 GEMINI_API_KEY=SEM_VLOZ_SVUJ_GEMINI_API_KLIC
 ```
 
-Nahraď ukázkový text svým klíčem. Klíč neposílej nikomu a nenahrávej `.env` na GitHub.
-
 ## 2. Instalace (Windows / PowerShell)
 
 Otevři terminál v této složce a spusť:
@@ -42,6 +40,6 @@ V terminálu se objeví zpráva, když Python tuto funkci spustí.
 
 ## Poznámky
 
-- API má vlastní limity a dostupnost; předplatné ChatGPT není kredit pro Gemini API.
+- Gemini API má vlastní limity používání a případné poplatky.
 - Pokud Google vrátí dočasnou chybu 503, program požadavek několikrát zopakuje.
 - Historie se uchovává pouze do ukončení programu.
